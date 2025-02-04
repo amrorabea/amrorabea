@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amrorabea&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrorabea&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrorabea&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🌱 Currently Exploring
@@ -76,10 +76,6 @@ skills_in_progress = {
 - 🔄 Real-time model monitoring
 - 🎯 Precision metrics tracking
 
-### [Add More Projects]
-- 🚀 [Project details]
-- 💡 [Technologies used]
-- 🎯 [Impact and results]
 </details>
 
 ---
