@@ -6,7 +6,6 @@ Machine Learning Engineer • Computer Vision • Generative AI
 
 <p align="center">
 <a href="https://www.linkedin.com/in/amro-rabea">LinkedIn</a> •
-<a href="https://github.com/amrorabea">GitHub</a> •
 <a href="mailto:amroalsafy@gmail.com">Email</a> •
 <a href="https://www.amrorabea.tech">Portfolio</a> •
 <a href="https://codeforces.com/profile/BuRabea3">Codeforces</a>
@@ -33,7 +32,7 @@ My current areas of interest include:
 
 ## Featured Projects
 
-### AI Virtual Try-On & 3D Reconstruction
+### [AI Virtual Try-On & 3D Reconstruction](https://prova-frontend.pages.dev)
 
 A production-ready virtual try-on platform powered by diffusion models and 3D reconstruction.
 
@@ -47,7 +46,7 @@ Key features:
 
 ---
 
-### Intelligent Surveillance System
+### [Intelligent Surveillance System](https://github.com/amrorabea/intelligent-surveillance)
 
 Semantic video search platform capable of retrieving surveillance events using natural language.
 
@@ -61,7 +60,7 @@ Core components:
 
 ---
 
-### TissueInsight
+### [TissueInsight](https://github.com/amrorabea/TissueInsight)
 
 A multimodal cancer prediction platform combining histopathology images and gene expression data.
 
