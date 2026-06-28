@@ -5,10 +5,11 @@ Machine Learning Engineer • Computer Vision • Generative AI
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/amro-rabea/">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/amro-rabea">LinkedIn</a> •
 <a href="https://github.com/amrorabea">GitHub</a> •
 <a href="mailto:amroalsafy@gmail.com">Email</a> •
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+<a href="https://www.amrorabea.tech">Portfolio</a> •
+<a href="https://codeforces.com/profile/BuRabea3">Codeforces</a>
 </p>
 
 ---
