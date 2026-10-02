@@ -1,140 +1,81 @@
 <h1 align="center">Amro Rabea</h1>
 
 <p align="center">
-Machine Learning Engineer • Computer Vision • Generative AI
+AI/ML Engineer • Computer Vision • Generative AI • Software Systems
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/amro-rabea">LinkedIn</a> •
 <a href="mailto:amroalsafy@gmail.com">Email</a> •
-<a href="https://www.amrorabea.tech">Portfolio</a> •
-<a href="https://codeforces.com/profile/BuRabea3">Codeforces</a>
+<a href="https://amro-rabea-portfolio.vercel.app">Portfolio</a> •
+<a href="https://github.com/amrorabea">GitHub</a>
 </p>
 
 ---
 
 ## About
 
-I am a Computer Science student with a primary focus on Computer Vision, Generative AI, and production-ready Machine Learning systems.
+Computer Science graduate and freelance AI/ML engineer focused on building and deploying complete software systems. I work across machine learning, computer vision, generative AI, backend services, and production deployment — from model development to user-facing applications.
 
-My work centers on designing end-to-end AI pipelines that bridge research and real-world applications. I enjoy building scalable backend services, training deep learning models, optimizing inference pipelines, and deploying AI solutions that solve practical problems.
+## Selected Work
 
-My current areas of interest include:
+### [Dentop — AI-Powered Dental Clinic Platform](https://dentop-clinic.com/)
 
-* Computer Vision
-* Diffusion Models
-* Multimodal AI
-* FastAPI Microservices
-* Retrieval-Augmented Generation (RAG)
-* AI Infrastructure
+A production dental clinic platform with a live AI assistant powered by RAG.
 
----
+* Handles appointment booking, cancellation, and rescheduling through natural language
+* Answers clinic-related questions and retrieves relevant data
+* Integrated into the live website as a real user-facing system
 
-## Featured Projects
+### [Elkhalily — E-commerce Platform](https://elkhalily1934.com/)
 
-### [AI Virtual Try-On & 3D Reconstruction](https://prova-frontend.pages.dev)
+A full-stack e-commerce platform built for an Egyptian supermarket.
 
-A production-ready virtual try-on platform powered by diffusion models and 3D reconstruction.
-
-Key features:
-
-* Diffusion-based virtual try-on
-* 3D garment reconstruction
-* FastAPI microservices
-* Celery and Redis task processing
-* GPU memory optimization for deployment
-
----
-
-### [Intelligent Surveillance System](https://github.com/amrorabea/intelligent-surveillance)
-
-Semantic video search platform capable of retrieving surveillance events using natural language.
-
-Core components:
-
-* Object detection and tracking
-* Embedding generation
-* Vector search
-* Interactive visualization dashboard
-* Real-time retrieval pipeline
-
----
+* Complete online product ordering and fulfillment workflow
+* 2,000+ customer orders placed through the website and successfully fulfilled
+* Built and deployed the platform end-to-end
 
 ### [TissueInsight](https://github.com/amrorabea/TissueInsight)
 
-A multimodal cancer prediction platform combining histopathology images and gene expression data.
+Multimodal machine learning platform combining histopathology images and gene expression data for cancer analysis.
 
-Components include:
-
-* CNN-based image analysis
-* XGBoost prediction models
+* Computer vision and machine learning pipelines
+* Gene expression preprocessing and modeling
 * Medical RAG assistant
-* End-to-end preprocessing and inference pipeline
 
----
+### [Intelligent Surveillance](https://github.com/amrorabea/intelligent-surveillance)
 
-## Technical Skills
+Natural-language video search system for retrieving events from surveillance footage.
 
-**Languages**
+* Object detection and tracking
+* Visual embeddings and vector search
+* Natural-language retrieval pipeline
 
-Python • C++ • JavaScript • SQL
+## Open Source
 
-**Machine Learning**
+### [Kornia](https://github.com/kornia/kornia)
 
-PyTorch • TensorFlow • Scikit-learn • OpenCV • XGBoost
+Contributed to the open-source computer vision library [Kornia](https://github.com/kornia/kornia).
 
-**Computer Vision**
+* Migrated five test classes in `tests/filters/` to the project's `BaseTester` framework
+* Updated assertions and device/dtype test parametrization
+* Verified the changes with the existing test suite: **112 passed, 3 skipped**
+* [View merged contribution →](https://github.com/kornia/kornia/pull/3873)
 
-Object Detection • Image Classification • Diffusion Models • Image Retrieval • Multimodal Learning
+## Technical Stack
 
-**Backend**
+**AI/ML:** PyTorch • Transformers • Diffusion Models • LLMs • RAG • Computer Vision • Multimodal Learning
 
-FastAPI • REST APIs • Celery • Redis
+**Backend:** Python • FastAPI • REST APIs • Node.js • Celery • Redis
 
-**Data**
+**Data:** Python • Pandas • NumPy • Scikit-learn • XGBoost
 
-Pandas • NumPy • Power BI • Tableau
-
-**Tools**
-
-Git • Docker • Linux
-
----
-
-## Current Focus
-
-I am currently focused on building production-grade AI systems with an emphasis on:
-
-* Computer Vision
-* Generative AI
-* Large Language Models
-* Scalable inference pipelines
-* AI backend engineering
-
----
-
-## GitHub Statistics
-
-<p align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=amrorabea&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrorabea&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
+**Infrastructure:** Docker • Linux • Git • Cloud Deployment
 
 ## Highlights
 
-* Second Place — Egyptian Collegiate Programming Contest (ECPC) University Round
-* Solved more than 1,000 competitive programming problems
-* Experience building production-ready AI applications
-* Strong interest in Computer Vision research and AI systems engineering
-
----
-
-## Contact
-
-I am always interested in discussing Machine Learning, Computer Vision, Generative AI, research collaborations, and software engineering opportunities.
-
-* LinkedIn: https://www.linkedin.com/in/amro-rabea/
-* Email: [amroalsafy@gmail.com](mailto:amroalsafy@gmail.com)
+* Computer Science graduate
+* Freelance AI/ML engineer building and deploying complete systems
+* 2,000+ fulfilled e-commerce orders through a platform I built
+* Open-source contributor to Kornia
+* Focused on turning AI models into usable, production systems
