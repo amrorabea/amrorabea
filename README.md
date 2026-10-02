@@ -1,81 +1,68 @@
-<h1 align="center">Amro Rabea</h1>
+<div align="center">
 
-<p align="center">
-AI/ML Engineer • Computer Vision • Generative AI • Software Systems
+<img src="./header.svg" alt="Amro Rabea — AI/ML Engineer" width="100%"/>
+
+<p>
+  <a href="https://www.linkedin.com/in/amro-rabea">LinkedIn</a> •
+  <a href="mailto:amroalsafy@gmail.com">Email</a> •
+  <a href="https://amro-rabea-portfolio.vercel.app">Portfolio</a>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/amro-rabea">LinkedIn</a> •
-<a href="mailto:amroalsafy@gmail.com">Email</a> •
-<a href="https://amro-rabea-portfolio.vercel.app">Portfolio</a> •
-<a href="https://github.com/amrorabea">GitHub</a>
-</p>
-
----
+</div>
 
 ## About
 
-Computer Science graduate and freelance AI/ML engineer focused on building and deploying complete software systems. I work across machine learning, computer vision, generative AI, backend services, and production deployment — from model development to user-facing applications.
+Computer Science graduate and freelance AI/ML engineer focused on building and deploying complete software systems. I work across machine learning, computer vision, generative AI, backend services, and production deployment — from models to user-facing applications.
+
+<img src="./system-pipeline.svg" alt="Model to production pipeline" width="100%"/>
 
 ## Selected Work
 
 ### [Dentop — AI-Powered Dental Clinic Platform](https://dentop-clinic.com/)
 
-A production dental clinic platform with a live AI assistant powered by RAG.
+Production dental clinic platform with a live AI assistant powered by RAG.
 
-* Handles appointment booking, cancellation, and rescheduling through natural language
-* Answers clinic-related questions and retrieves relevant data
-* Integrated into the live website as a real user-facing system
+- Handles appointment booking, cancellation, and rescheduling through natural language
+- Answers clinic questions and retrieves relevant data
+- Deployed as a real user-facing system
 
 ### [Elkhalily — E-commerce Platform](https://elkhalily1934.com/)
 
-A full-stack e-commerce platform built for an Egyptian supermarket.
+Full-stack e-commerce platform built for an Egyptian supermarket.
 
-* Complete online product ordering and fulfillment workflow
-* 2,000+ customer orders placed through the website and successfully fulfilled
-* Built and deployed the platform end-to-end
+- Complete online ordering and fulfillment workflow
+- **2,000+ customer orders** placed through the website and successfully fulfilled
+- Built and deployed end-to-end
 
 ### [TissueInsight](https://github.com/amrorabea/TissueInsight)
 
-Multimodal machine learning platform combining histopathology images and gene expression data for cancer analysis.
-
-* Computer vision and machine learning pipelines
-* Gene expression preprocessing and modeling
-* Medical RAG assistant
+Multimodal ML platform combining histopathology images and gene expression data for cancer analysis.
 
 ### [Intelligent Surveillance](https://github.com/amrorabea/intelligent-surveillance)
 
-Natural-language video search system for retrieving events from surveillance footage.
-
-* Object detection and tracking
-* Visual embeddings and vector search
-* Natural-language retrieval pipeline
+Natural-language video search system using object detection, tracking, visual embeddings, and vector search.
 
 ## Open Source
 
 ### [Kornia](https://github.com/kornia/kornia)
 
-Contributed to the open-source computer vision library [Kornia](https://github.com/kornia/kornia).
+Contributed to the open-source computer vision library Kornia.
 
-* Migrated five test classes in `tests/filters/` to the project's `BaseTester` framework
-* Updated assertions and device/dtype test parametrization
-* Verified the changes with the existing test suite: **112 passed, 3 skipped**
-* [View merged contribution →](https://github.com/kornia/kornia/pull/3873)
+- Migrated five test classes in `tests/filters/` to the `BaseTester` framework
+- Updated assertions and device/dtype test parametrization
+- Verified the changes with **112 passed, 3 skipped**
+- [View merged contribution →](https://github.com/kornia/kornia/pull/3873)
 
-## Technical Stack
+## Core Stack
 
 **AI/ML:** PyTorch • Transformers • Diffusion Models • LLMs • RAG • Computer Vision • Multimodal Learning
 
-**Backend:** Python • FastAPI • REST APIs • Node.js • Celery • Redis
-
-**Data:** Python • Pandas • NumPy • Scikit-learn • XGBoost
+**Backend:** Python • FastAPI • Node.js • REST APIs • Celery • Redis
 
 **Infrastructure:** Docker • Linux • Git • Cloud Deployment
 
-## Highlights
+<div align="center">
 
-* Computer Science graduate
-* Freelance AI/ML engineer building and deploying complete systems
-* 2,000+ fulfilled e-commerce orders through a platform I built
-* Open-source contributor to Kornia
-* Focused on turning AI models into usable, production systems
+### Building AI systems that make it from model → production.
+
+</div>
