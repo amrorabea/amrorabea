@@ -1,0 +1,52 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#111827"/>
+    <stop offset="1" stop-color="#0B1220"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="170" y1="60" x2="1050" y2="230" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#60A5FA"/>
+    <stop offset="1" stop-color="#A78BFA"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="7" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+    .sans{font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+  </style>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#g)"/>
+<g opacity=".16">
+  <path d="M0 70H1200M0 140H1200M0 210H1200" stroke="#94A3B8"/>
+  <path d="M120 0V300M300 0V300M480 0V300M660 0V300M840 0V300M1020 0V300" stroke="#94A3B8"/>
+</g>
+
+<g opacity=".65">
+  <circle cx="970" cy="150" r="88" stroke="#334155"/>
+  <circle cx="970" cy="150" r="56" stroke="#475569"/>
+  <circle cx="970" cy="150" r="24" stroke="#64748B"/>
+  <circle cx="970" cy="150" r="5" fill="#A78BFA" filter="url(#glow)">
+    <animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g stroke="url(#accent)" stroke-width="2" opacity=".75">
+  <path d="M900 150H820L770 105H700"/>
+  <path d="M900 150H820L770 195H700"/>
+  <path d="M1040 150H1090L1120 120"/>
+  <path d="M1040 150H1090L1120 180"/>
+</g>
+
+<text x="72" y="92" class="mono" font-size="15" fill="#94A3B8">$ amro.build()</text>
+<text x="70" y="145" class="sans" font-size="42" font-weight="750" fill="#F8FAFC">AI/ML Engineer</text>
+<text x="72" y="184" class="sans" font-size="20" fill="#CBD5E1">Computer Vision • Generative AI • Production Systems</text>
+<text x="72" y="228" class="mono" font-size="14" fill="#64748B">
+  model → inference → backend → deployment
+</text>
+
+<circle cx="1130" cy="44" r="4" fill="#60A5FA">
+  <animate attributeName="opacity" values=".25;1;.25" dur="2.2s" repeatCount="indefinite"/>
+</circle>
+</svg>

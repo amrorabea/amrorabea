@@ -1,0 +1,35 @@
+<svg width="900" height="170" viewBox="0 0 900 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="line" x1="80" y1="85" x2="820" y2="85" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#60A5FA"/><stop offset="1" stop-color="#A78BFA"/>
+  </linearGradient>
+  <style>
+    .box{fill:#111827;stroke:#334155;stroke-width:1.5}
+    .t{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#E2E8F0;font-size:14px}
+    .s{font-family:ui-sans-serif,system-ui,sans-serif;fill:#94A3B8;font-size:11px}
+  </style>
+</defs>
+<path d="M120 85H780" stroke="url(#line)" stroke-width="2" stroke-dasharray="8 8">
+  <animate attributeName="stroke-dashoffset" from="32" to="0" dur="1.5s" repeatCount="indefinite"/>
+</path>
+<g>
+<rect x="40" y="48" width="130" height="74" rx="12" class="box"/>
+<text x="105" y="80" text-anchor="middle" class="t">MODEL</text><text x="105" y="100" text-anchor="middle" class="s">train / fine-tune</text>
+</g>
+<g>
+<rect x="220" y="48" width="130" height="74" rx="12" class="box"/>
+<text x="285" y="80" text-anchor="middle" class="t">INFERENCE</text><text x="285" y="100" text-anchor="middle" class="s">optimize / serve</text>
+</g>
+<g>
+<rect x="400" y="48" width="130" height="74" rx="12" class="box"/>
+<text x="465" y="80" text-anchor="middle" class="t">BACKEND</text><text x="465" y="100" text-anchor="middle" class="s">API / workflows</text>
+</g>
+<g>
+<rect x="580" y="48" width="130" height="74" rx="12" class="box"/>
+<text x="645" y="80" text-anchor="middle" class="t">DEPLOY</text><text x="645" y="100" text-anchor="middle" class="s">cloud / production</text>
+</g>
+<g>
+<rect x="760" y="48" width="100" height="74" rx="12" class="box"/>
+<text x="810" y="80" text-anchor="middle" class="t">USERS</text><text x="810" y="100" text-anchor="middle" class="s">real systems</text>
+</g>
+</svg>
